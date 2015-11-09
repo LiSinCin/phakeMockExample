@@ -1,0 +1,12 @@
+{
+  "name": "acme/phpVerTest",
+  "require": {
+    "phake/phake": "dev-master"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "3.7.*"
+  },
+  "autoload": {
+    "psr-0": { "Item": "" }
+  }
+}
